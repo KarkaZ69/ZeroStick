@@ -7,7 +7,7 @@
 ## 🔥 Features
 - **Cyber-secure** menu control via Flipper GPIO
 - **Ghost protocol** activation
-- **Marauder Link™** with 300ms debounce armor
+- [Marauder Link](https://github.com/justcallmekoko/ESP32Marauder)
 - **Killer UI** with dynamic selector
 - **One-click reboot** via side button
 
