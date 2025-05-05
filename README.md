@@ -14,9 +14,10 @@
 ## 📡 Hardware Setup
 | Flipper Zero       | M5Stick C Plus 2 |
 |--------------------|------------------|
-| A7 (Down)          → G26          |
-| A6 (Select)        → G36          |
-| GND                → GND          |
+| A7 (Down)         →| G26          |
+| A6 (Select)       →| G36          |
+| GND               →| GND          |
+| 3V3               →| 3V3         |
 
 ![Wiring Diagram](docs/wiring.png)
 
